@@ -43,7 +43,9 @@ npx skills add void-sleep/agent-skills --skill <skill-name> -g -y
 
 ## Skills 列表
 
-暂无。新增 skill 后在此补充，按名称排序。
+| Skill | 说明 |
+|-------|------|
+| [tech-docs-blog-writing](skills/tech-docs-blog-writing/) | 技术文档与工程博客：体裁、主张账本、可信度与文风门禁 |
 
 ## 开发
 
