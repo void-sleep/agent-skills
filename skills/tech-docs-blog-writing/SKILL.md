@@ -5,7 +5,7 @@ metadata:
   tags:
     - writing
   author: void-sleep
-  version: "1.6.0"
+  version: "1.6.1"
 ---
 
 # Tech Docs Blog Writing
@@ -78,7 +78,7 @@ metadata:
 
 ## 硬规则
 
-1. 先工件后解释
+1. 文档类不考虑兼容性
 2. 有判断；落到版本号与错误码
 3. 禁空壳标题与 Q&A 式 H3
 4. 数字压过形容词；条件式选型，不排名
